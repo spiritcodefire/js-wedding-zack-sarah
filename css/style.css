@@ -1,0 +1,192 @@
+
+* {
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+.police-vibe{
+    font-family: 'Great Vibes', cursive;  
+}
+
+.centre-photo{
+    width: 520px;
+    z-index: 1;
+}
+
+.centre-vid{
+    width: 1108px;
+    background-size: cover;
+    margin-top: -50px;
+}
+
+.container-bgbg{
+    /* background-image: url(../bg.png); */
+    background-color: rgb(255, 254, 249);
+    background-repeat: repeat;
+    height: 3100px;
+    width: 100%;
+}
+
+.theradius{
+
+    border-radius: 14%;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+}
+
+#myVideo {
+  position: fixed;
+  width: 100%; 
+ 
+}
+
+.wrapper{
+position: relative; 
+width: auto; 
+height: 600px; 
+z-index: -100;
+background-size: cover;
+overflow: hidden;
+}
+
+.cropped27{
+  width: 1200px; /* width of container */
+  height: 700px; /* height of container */
+  overflow: hidden;
+}
+.cropped27 img{
+  margin: -150px 0px 0px 0px;
+  width: 1200px; /* width of container */
+  min-height: 700px; /* height of container */
+}
+
+
+.cropped04{
+  width: 1200px; /* width of container */
+  height: 700px; /* height of container */
+  overflow: hidden;
+}
+.cropped04 img{
+  margin: -100px 0px 0px -100px;
+  width: 1200px; /* width of container */
+  min-height: 700px; /* height of container */
+}
+
+.cropped45{
+  width: 1200px; /* width of container */
+  height: 700px; /* height of container */
+  overflow: hidden;
+}
+.cropped45 img{
+  margin: -100px 0px 0px 0px;
+  width: 1200px; /* width of container */
+  min-height: 700px; /* height of container */
+}
+
+.croppedxs42{
+  width: 400px; /* width of container */
+  height: 200px; /* height of container */
+  overflow: hidden;
+}
+.croppedxs42 img{
+  margin: -80px 0px 0px 0px;
+  width: 400px; /* width of container */
+  min-height: 200px; /* height of container */
+}
+
+.croppedxs42{
+  width: 400px; /* width of container */
+  height: 200px; /* height of container */
+  overflow: hidden;
+}
+.croppedxs42 img{
+  margin: -80px 0px 0px 0px;
+  width: 400px; /* width of container */
+  min-height: 200px; /* height of container */
+}
+
+.croppedxs27{
+  width: 400px; /* width of container */
+  height: 200px; /* height of container */
+  overflow: hidden;
+}
+.croppedxs27 img{
+  margin: -60px 0px 0px -50px;
+  width: 400px; /* width of container */
+  min-height: 200px; /* height of container */
+}
+
+.croppedxs04{
+  width: 400px; /* width of container */
+  height: 200px; /* height of container */
+  overflow: hidden;
+}
+.croppedxs04 img{
+  margin: -70px 0px 0px -50px;
+  width: 400px; /* width of container */
+  min-height: 200px; /* height of container */
+}
+
+
+.croppedxs45{
+  width: 400px; /* width of container */
+  height: 200px; /* height of container */
+  overflow: hidden;
+}
+.croppedxs45 img{
+  margin: -25px 0px 0px 0px;
+  width: 400px; /* width of container */
+  min-height: 200px; /* height of container */
+}
+
+
+.croppedxs43{
+  width: 400px; /* width of container */
+  height: 200px; /* height of container */
+  overflow: hidden;
+}
+.croppedxs43 img{
+  margin: -50px 0px 0px -40px;
+  width: 400px; /* width of container */
+  min-height: 200px; /* height of container */
+}
+
+
+.croppedxs44{
+  width: 400px; /* width of container */
+  height: 200px; /* height of container */
+  overflow: hidden;
+}
+.croppedxs44 img{
+  margin: -50px 0px 0px -20px;
+  width: 400px; /* width of container */
+  min-height: 200px; /* height of container */
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 480px) {
+
+  .container-bgbg{
+    /* background-image: url(../bg.png); */
+    background-color: rgb(255, 254, 249);
+    background-repeat: repeat;
+    height: 2650px;
+    width: 100%;
+}
+}
+
+
+
+
+
+
+

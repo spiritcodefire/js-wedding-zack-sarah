@@ -1,0 +1,213 @@
+/*** CSS here ***/
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header div.dimgeneral{
+    width: 100%;
+    border: 0px yellow solid;
+}
+
+header div.dimconteneur{
+    width: 1140px;
+    margin: auto;
+    border: 0px red solid;
+}
+
+header #conteneur{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+    margin-top: 27px;
+}
+
+.ecritureblokrouge1{
+    text-align: center;
+    font-size: 12px;
+    padding-left: 26px;
+}
+
+.ecritureblokrouge2{
+    text-align: center;
+    font-size: 12px;
+    padding-left: 19px;
+}
+
+.ecritureblokrouge3{
+    text-align: center;
+    font-size: 12px;
+    padding-left: 14px;
+}
+
+.ecritureblokrouge4{
+    text-align: center;
+    font-size: 12px;  
+    padding-left: 10px;
+}
+
+hr{
+    width: 60px;
+    border: 1px solid white;
+    display: block;
+    margin: 0px !important;
+    position: relative;
+    left: 10px;
+}
+
+h1{
+    color: #231f20;
+}
+
+.hrleft{
+    width: 50px;
+    border: 0px solid red;
+    text-align: left;
+}
+
+section hr{
+    border-bottom: red 2px solid;
+}
+
+header div.dimgeneral{
+    width: 100%;
+    border: 0px yellow solid;
+}
+
+header figure.marginlogo{
+    border: 0px blue solid;
+    width: 50%;
+    margin-top: 34px;
+}
+
+header .margincompteur{
+    border: 0px green solid;
+    width: 50%;
+    margin: top;
+}
+
+header #containerduconteneur{
+    display: flex;
+    flex-direction: column;
+}
+
+header #containerduconteneur .nexteventfleche{
+    border: 0px rgb(236, 205, 63) solid;
+    width: 317px;
+    height: 15px;
+    color: #c63733;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 144px;
+    margin-bottom: 10px;
+
+}
+
+header #containerduconteneur .compteurrouge{
+    border: 0px rgb(122, 4, 4) solid;
+    width: 520px;
+}
+
+header #containerdesquatresblocsrouges{
+    display: flex;
+    justify-content: center;
+}
+
+H5.REDBOLD{
+    color: #c63733;
+    font-weight: bold;
+    margin-top: 28px;
+}
+
+header .redblok{
+    background-color: #c63733;
+    width: 83px;
+    height: 81px;
+    margin: 3px;
+    padding: 0px;
+    color: white;
+    border-radius: 15%;
+}
+
+div.redblok{
+    color: white;
+}
+
+.chiffreblokrouge{
+    font-size: 34px;
+    line-height: 18px;
+    padding-left: 10px;
+}
+
+h5.redblok i{
+    color: red;
+}
+
+header #containerduconteneur .compteurrouge{
+    border: 0px rgb(122, 4, 4) solid;
+    width: 520px;
+}
+
+.spanred{
+    color: red;
+}
+
+.pcompteur{
+    font-size: 10px;
+}
+
+#jour {
+    margin-top: -15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#heure{
+    margin-top: -15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#minute{
+    margin-top: -15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#seconde{
+    margin-top: -15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
